@@ -1,4 +1,4 @@
-package cn.pigpi.wx_bugs_1;
+package cn.pigpi.reader;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
