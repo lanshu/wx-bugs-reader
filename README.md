@@ -1,2 +1,2 @@
 # wx-bugs-reader
-读取本地key文件后发送队列
+read file and send to restful
